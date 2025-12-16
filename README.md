@@ -1,2 +1,2 @@
-# ai_studio
+# ai_akadem 
 google company
